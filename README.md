@@ -53,3 +53,4 @@ The Tobacco Use and Mortality Analysis Dashboard provides a comprehensive view o
 
 Screenshots/Demo
 Example:https://github.com/SHAIKROUHEEAUCSE/TobaccoUseAndMortality-Dashboard/blob/main/Snapshot1.png
+https://github.com/SHAIKROUHEEAUCSE/TobaccoUseAndMortality-Dashboard/blob/main/Snapshot2.png
